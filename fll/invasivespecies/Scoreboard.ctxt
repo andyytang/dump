@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoreboard\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=time\ esp
+comment1.target=Scoreboard(java.lang.String,\ java.lang.String)
+comment2.params=time\ esp
+comment2.target=void\ updateScore(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTime()
+comment4.params=
+comment4.target=java.lang.String\ getesp()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

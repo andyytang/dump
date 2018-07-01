@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InvasiveSpecies
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ InvasiveSpecies\ here.\r\n\ \r\n\ @Andy\ Tang\ (your\ name)\ \r\n\ @2.0\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=invasiveness\ iarea\ lifespan
+comment1.target=InvasiveSpecies(int,\ int,\ int)
+comment2.params=value\ min\ max
+comment2.target=int\ ensureRange(int,\ int,\ int)
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ InvasiveSpecies\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4
